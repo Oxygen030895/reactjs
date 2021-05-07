@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Oxygen030895/reactjs.git/static/css/main.dd00fad0.chunk.css",
+    "main.js": "/Oxygen030895/reactjs.git/static/js/main.de30547e.chunk.js",
+    "main.js.map": "/Oxygen030895/reactjs.git/static/js/main.de30547e.chunk.js.map",
+    "runtime-main.js": "/Oxygen030895/reactjs.git/static/js/runtime-main.1bef3d14.js",
+    "runtime-main.js.map": "/Oxygen030895/reactjs.git/static/js/runtime-main.1bef3d14.js.map",
+    "static/js/2.8122a3c8.chunk.js": "/Oxygen030895/reactjs.git/static/js/2.8122a3c8.chunk.js",
+    "static/js/2.8122a3c8.chunk.js.map": "/Oxygen030895/reactjs.git/static/js/2.8122a3c8.chunk.js.map",
+    "index.html": "/Oxygen030895/reactjs.git/index.html",
+    "static/css/main.dd00fad0.chunk.css.map": "/Oxygen030895/reactjs.git/static/css/main.dd00fad0.chunk.css.map",
+    "static/js/2.8122a3c8.chunk.js.LICENSE.txt": "/Oxygen030895/reactjs.git/static/js/2.8122a3c8.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Oxygen030895/reactjs.git/static/media/img-8.fabdf94d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1bef3d14.js",
+    "static/js/2.8122a3c8.chunk.js",
+    "static/css/main.dd00fad0.chunk.css",
+    "static/js/main.de30547e.chunk.js"
+  ]
+}
